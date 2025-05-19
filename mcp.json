@@ -1,0 +1,17 @@
+{
+    "mcpServers": {
+      "tcia-mcp": {
+        "command": "uv",
+        "type": "stdio",
+        "enable": true,
+        "args": [
+          "--directory /Users/shaunporwal/Documents/GitHub/projects/TCIA-mcp run src/server.py server"
+        ]
+      },
+      "TalkToFigma": {
+        "command": "bunx",
+        "args": ["cursor-talk-to-figma-mcp@latest"]
+      }
+    }
+  }
+  
